@@ -29,7 +29,7 @@ Anyways, this is a very secure DRM, and was quite interesting to make. I hope yo
 
 - A recent version of Windows 10
 
-- Python 3.0 - 3.6 (no 3.7 at the moment)
+- Python 3.0 - 3.6 (no 3.7 support at the moment)
 
 # Usage
 
@@ -46,3 +46,8 @@ Anyways, this is a very secure DRM, and was quite interesting to make. I hope yo
 5. The compiled executables can be found in the newly created "dist" folder
 
 6. Enjoy
+
+# Credit
+
+Credit for [pycryptodome](https://github.com/Legrandin/pycryptodome) goes to [Legrandin](https://github.com/Legrandin), and collaborators
+Credit for [pyinstaller](https://github.com/pyinstaller/pyinstaller/) goes to the [pyinstaller](https://github.com/pyinstaller) team
