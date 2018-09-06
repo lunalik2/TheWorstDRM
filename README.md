@@ -50,4 +50,5 @@ Anyways, this is a very secure DRM, and was quite interesting to make. I hope yo
 # Credit
 
 Credit for [pycryptodome](https://github.com/Legrandin/pycryptodome) goes to [Legrandin](https://github.com/Legrandin), and collaborators
+
 Credit for [pyinstaller](https://github.com/pyinstaller/pyinstaller/) goes to the [pyinstaller](https://github.com/pyinstaller) team
